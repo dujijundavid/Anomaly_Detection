@@ -1,0 +1,14 @@
+{
+    "BETBEL01GYN001_1_totalAttachedUser": 43,
+    "BETBEL01GYN001_1_totalRejectedUser": 4,
+    "BETBEL01GYN001_1_peak_dl": 13007,
+    "BETBEL01GYN001_1_peak_ul": 42953,
+    "BETBEL01GYN001_1_enodeb_shutdown_count": 6,
+    "BETBEL01GYN001_1_handoverFailureCount": 0,
+    "BETBEL01GYN001_1_totalBearerActiveUser": 4,
+    "BETBEL01GYN001_1_totalBearerRejectedUser": 0,
+    "BETBEL01GYN001_1_total_dropped_packets": 4,
+    "BETBEL01GYN001_1_total_users": 17,
+    "BETBEL01GYN001_1_enodeb_connected_count": 8,
+    "BETBEL01GYN001_1_enodeb_connection_status": 9
+}

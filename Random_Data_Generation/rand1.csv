@@ -1,0 +1,4 @@
+client_id,timestamp,total_attached_user,total_rejected_user,peak_upload_speed,peak_download_speed,enodeb_shutdown_count,handover_failure_count,bearer_active_user_count,bearer_rejected_user_count,total_users,total_dropped_packets,enodeb_connected_count,enodeb_connection_status
+RAND001,2022-05-01 09:30:00,1,1,2.0,0.71,0,0,1,0.0,7.0,1.89,4.09,9.25
+RAND001,2022-05-01 09:35:00,1,0,15.56,15.56,0,1,0,15.56,15.56,15.56,15.56,15.56
+RAND001,2022-05-01 09:40:00,1,1,-0.56,-0.56,0,0,0,-0.56,-0.56,-0.56,-0.56,-0.56
